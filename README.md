@@ -15,7 +15,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).![screencapture-127-0-0-1-5500-index-html-2022-10-06-22_54_05](https://user-images.githubusercontent.com/34896655/198406178-0db901bd-f2d4-4b63-afd7-5893816e9e98.png)
+
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 

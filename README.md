@@ -1,6 +1,4 @@
 <p align="center"><a href="https://laravel.com" target="_blank">
-    ![screencapture-127-0-0-1-5500-index-html-2022-10-06-22_54_05](https://user-images.githubusercontent.com/34896655/198406309-8635bcac-8a1d-4c6e-b3d8-5cf70b9715f4.png)
-
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
